@@ -24,7 +24,7 @@ This project focuses on **detecting car number plates, identifying their colors*
 ## ⚙️ **Installation & Setup**
 1️⃣ **Clone the Repository:**  
 ```bash
-git clone git@github.com:sahilsinnarkar/traffic-anomalies.git
+git clone https://github.com/AtharvaBagade23/IoT_Mini_Project.git
 cd traffic-anomalies
 ```
 
